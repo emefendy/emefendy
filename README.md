@@ -2,7 +2,7 @@
 
 I study computer science and physics at Harvard (A.B., with a concurrent S.M. in CS). I like building things real people use: data platforms, AI agents, and software for nonprofits. I also teach weekly lectures on Git, React and Next.js for Harvard Tech for Social Good.
 
-🌐 **[emilieefendy.com](https://emilieefendy.com)** is my personal site: a pixel-art campus you can walk around (press ⌘K once you're there).
+🌐 **[emilieefendy.com](https://emilieefendy.com)**
 
 ### Recently
 
