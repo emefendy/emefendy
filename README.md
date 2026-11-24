@@ -1,6 +1,6 @@
 # Hi, I'm Emilie 👋
 
-I study computer science and physics at Harvard (A.B., with a concurrent S.M. in CS). I like building things real people use: data platforms, AI agents, and software for nonprofits. I also teach weekly lectures on Git, React and Next.js for Harvard Tech for Social Good.
+I study computer science and physics at Harvard (A.B., with a concurrent S.M. in CS). Glad to see you here!
 
 🌐 **[emilieefendy.com](https://emilieefendy.com)**
 
