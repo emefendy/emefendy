@@ -6,9 +6,9 @@ I study computer science and physics at Harvard (A.B., with a concurrent S.M. in
 
 ### Recently
 
-- **QuEra Quantum Computing** (summer 2026): built a Python → Postgres pipeline and dashboard for photonics testbed data, and trained research agents against custom evals
+- **QuEra Quantum Computing** (summer 2026): built a data pipeline (Azure Data Lake + Postgres) and dashboard for photonics testbed data, and trained research agents against custom evals
 - **Mercor**: ran eval-design trainings for 100+ domain experts and raised the share of submissions passing frontier-lab benchmarks from 41% to 85%
-- **Harvard Tech for Social Good**: Senior Software Engineer and executive board; I lead two cohorts
+- **Harvard Tech for Social Good**: Senior Software Engineer and executive board; was part of 3 projects and currently leading two cohorts of students
 
 ### Featured projects
 
